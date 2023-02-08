@@ -1,3 +1,4 @@
+/* Universal selectors begin */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +8,9 @@
 body {
     background-color: #d9dcd6;
 }
+/* Universal selectors end here */
 
+/* header begins here */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +44,9 @@ body {
     margin-left: 25px;
 }
 
+/* header properties end here */
+
+/* article starts here */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -74,7 +80,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* article ends here */
 
+/* aside starts here */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +127,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* aside ends here */
+
+/* footer begins */
 
 .footer {
     padding: 30px;
@@ -129,3 +140,5 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+/* footer ends */
