@@ -24,4 +24,4 @@ The HTML and CSS starter files which were provided needed revamping. Some of the
 You can see the updated image of the code below and find my launched site <a href="https://brodi-xx.github.io/Module-1-Challenge/">here</a>.
 <br>
 <br>
-<img src = /Users/brodi/bootcamp/challenges/Module-1-Challenge/assets/images/Code-Screen-Shot.png>
+<img src = https://github.com/brodi-xx/Module-1-Challenge/blob/5bc2b5a37052f2582d18099691d0209b4f35b966/assets/images/Code-Screen-Shot.png>
